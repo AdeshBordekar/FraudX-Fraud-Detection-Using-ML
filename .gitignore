@@ -1,0 +1,20 @@
+# Python virtual environment
+venv/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ML Model files
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
