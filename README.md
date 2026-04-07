@@ -14,7 +14,7 @@ The system analyzes input data and predicts whether it is **Safe, Moderate, or H
 * 📊 Risk Score Prediction (Safe / Moderate / High Risk)
 * 🧠 Machine Learning Models (trained on text data)
 * 🌐 Full-stack Web Application (Frontend + Backend)
-* 📈 Analytical dashboard (for future improvements)
+* 📈 Analytical dashboard 
 
 ---
 
