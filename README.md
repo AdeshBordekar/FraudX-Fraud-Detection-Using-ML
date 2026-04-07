@@ -38,10 +38,10 @@ FraudX/
 ## ⚙️ Technologies Used
 
 * **Frontend:** React.js, CSS
-* **Backend:** Node.js / Express.js
+* **Backend:** Flask
 * **Machine Learning:** Python, Scikit-learn
 * **Data Processing:** TF-IDF, NLP techniques
-* **Database:** JSON / MongoDB (if used)
+* **Database:** MongoDB
 
 ---
 
